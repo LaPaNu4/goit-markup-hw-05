@@ -231,7 +231,6 @@ h1.hidden {
   letter-spacing: 0.02em;
   color: #434455;
   width: 264px;
-  margin-bottom: 8px;
 }
 .cont-social-list {
   display: flex;
@@ -358,8 +357,8 @@ h1.hidden {
   border: 1px solid #e7e9fc;
 }
 .portfolio-item:hover {
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.3),
+    0px 1px 1px rgba(46, 47, 66, 0.3), 0px 2px 1px rgba(46, 47, 66, 0.3);
 }
 .portfolio-item-wrap {
   position: relative;
